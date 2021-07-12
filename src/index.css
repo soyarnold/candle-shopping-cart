@@ -29,9 +29,12 @@ textarea {
   height: 100%;
 }
 
+a {
+  text-decoration: none;
+}
+
 a:hover {
   color: #ff8000;
-  text-decoration: none;
 }
 
 header {
@@ -85,10 +88,9 @@ footer {
 }
 
 .products li {
-  flex: 0 1 15rem;
+  flex: 0 1 12rem;
   height: 25rem;
   padding: 1rem;
-  margin: 1rem;
 }
 
 .product {
@@ -106,7 +108,6 @@ footer {
 .product-price {
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 .product-price div,
@@ -133,4 +134,17 @@ footer {
 
 .button.primary {
   background-color: #f0c040;
+}
+
+/* filter */
+.filter {
+  display: flex;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: 0.1rem #c0c0c0 solid;
+  justify-content: space-between;
+}
+
+.filter div {
+  flex: 1;
 }
