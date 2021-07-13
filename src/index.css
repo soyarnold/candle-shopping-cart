@@ -73,7 +73,7 @@ footer {
 }
 
 .sidebar {
-  flex: 1 20rem;
+  flex: 1 24rem;
 }
 
 /* products */
@@ -119,15 +119,14 @@ footer {
 }
 
 .product-price div {
-  font-size: 1.4rem;
+  font-size: 1.1rem;
 }
 
 .button {
-  padding: 0.7rem;
+  padding: 0.5rem;
   border: 0.1rem #c0c0c0 solid;
   background-color: #f0f0f0;
   cursor: pointer;
-  border-radius: 0.8rem;
 }
 
 .button:hover {
@@ -186,8 +185,8 @@ footer {
   flex: 1;
 }
 
-.right {
-  text-align: right;
+.left {
+  text-align: left;
 }
 
 .total {
@@ -202,6 +201,28 @@ footer {
 }
 
 .total > div,
-.toal > button {
+.total > button {
   flex: 1;
+}
+
+/* checkout form */
+form {
+  width: 100%;
+}
+
+.form-container {
+  padding: 0;
+  list-style-type: none;
+  width: 100%;
+}
+
+.form-container li {
+  display: flex;
+  flex-direction: column;
+  padding: 0.4rem;
+}
+
+input {
+  padding: 0.6rem;
+  border: 0.1rem #c0c0c0 solid;
 }
