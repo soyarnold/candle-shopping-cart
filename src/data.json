@@ -1,52 +1,52 @@
 {
   "products": [
     {
-      "_id": "dress1",
-      "image": "/images/dress1.jpg",
-      "title": "Midi detail",
-      "description": "This is for all the newest fashion models.",
-      "availableSizes": ["S", "L", "XL", "XXL"],
-      "price": 14.95
+      "_id": "candle1",
+      "image": "https://cdn.shopify.com/s/files/1/0800/7857/products/PeachNectarine-DWSG1149_1024x1024.jpg?v=1616717728",
+      "title": "PEACH NECTARINE",
+      "description": "Sweet peach nectar, dewy greens, and blooming nectarine blossoms enhanced with apricot and warm touches of soft peach wood.",
+      "availableSizes": ["12oz", "14oz", "16oz"],
+      "price": 18
     },
     {
-      "_id": "dress2",
-      "image": "/images/dress2.jpg",
-      "title": "Midi sundress with shirring detail",
-      "description": "This is for all the latest trends, no matter what.",
-      "availableSizes": ["M", "L", "XL", "XXL"],
-      "price": 29.9
+      "_id": "candle2",
+      "image": "https://cdn.shopify.com/s/files/1/0800/7857/products/Warm_Tobacco_Pipe_aa8b0fe8-f648-4d10-9f8c-a7236c8b334d_350x350@2x.progressive.jpg?v=1573080451",
+      "title": "WARM TOBACCO PIPE | REED DIFFUSER",
+      "description": "Warm Tobacco and brushed suede meld with aromatic greens, soft weathered woods, earthy patchouli and smoky leather.",
+      "availableSizes": ["14oz", "16oz"],
+      "price": 24
     },
     {
-      "_id": "dress3",
-      "image": "/images/dress3.jpg",
-      "title": "Midi sundress with shirring detail",
-      "description": "This is for all the latest trends, no matter what.",
-      "availableSizes": ["XS", "L", "XL", "XXL"],
-      "price": 49.9
+      "_id": "candle3",
+      "image": "https://cdn.shopify.com/s/files/1/0800/7857/products/Woodsmoke_Bourbon_-_2_350x350@2x.progressive.jpg?v=1614386837",
+      "title": "WOODSMOKE BOURBON",
+      "description": "Dark, amber notes of oak aged bourbon spun gently with smoked vanilla bean,  hickory, and touches of birch wood, enhanced with crushed black peppercorn, spicy nutmeg, and golden clove bud.",
+      "availableSizes": ["16oz", "18oz", "20oz"],
+      "price": 22
     },
     {
-      "_id": "dress4",
-      "image": "/images/dress4.jpg",
-      "title": "Midi sundress with shirring detail",
+      "_id": "candle4",
+      "image": "https://cdn.shopify.com/s/files/1/0800/7857/products/DW3498_350x350@2x.progressive.jpg?v=1614386448",
+      "title": "WARM TOBACCO PIPE",
       "description": "This is for all the latest trends, no matter what.",
-      "availableSizes": ["L", "XXL"],
-      "price": 29.9
+      "availableSizes": ["10oz", "12oz"],
+      "price": 12
     },
     {
-      "_id": "dress5",
-      "image": "/images/dress5.jpg",
-      "title": "Midi sundress with shirring detail",
-      "description": "This is for all the latest trends, no matter what.",
-      "availableSizes": ["S", "L", "XL"],
-      "price": 19.9
+      "_id": "candle5",
+      "image": "https://cdn.shopify.com/s/files/1/0800/7857/products/WarmTobaccoPipe_350x350@2x.progressive.jpg?v=1587424507",
+      "title": "WARM TOBACCO PIPE | ROOM & LINEN SPRAY",
+      "description": "Warm Tobacco and brushed suede meld with aromatic greens, soft weathered woods, earthy patchouli and smoky leather.",
+      "availableSizes": ["12oz", "16oz", "18oz"],
+      "price": 22
     },
     {
-      "_id": "dress6",
-      "image": "/images/dress6.jpg",
-      "title": "Midi sundress with shirring detail",
-      "description": "This is for all the latest trends, no matter what.",
-      "availableSizes": ["X", "L", "XL", "XXL"],
-      "price": 24.9
+      "_id": "candle6",
+      "image": "https://cdn.shopify.com/s/files/1/0800/7857/products/Tobacco_Leaf_350x350@2x.progressive.jpg?v=1500590980",
+      "title": "TOBACCO LEAF",
+      "description": "Warm, aromatic, slightly herbal notes of green tobacco leaf are accented with oak and oud wood over a fleeting hint of rain-soaked, freshly turned black earth.",
+      "availableSizes": ["10oz", "12oz", "14oz"],
+      "price": 24
     }
   ]
 }
