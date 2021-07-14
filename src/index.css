@@ -226,3 +226,41 @@ input {
   padding: 0.6rem;
   border: 0.1rem #c0c0c0 solid;
 }
+
+/* product details */
+.product-details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-height: 96vh;
+}
+
+.product-details img {
+  max-height: 100vh;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.product-details-description {
+  flex: 1 1;
+  margin: 1rem;
+}
+
+.product-details-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product-details-price div,
+.product-details-price button {
+  text-align: center;
+  flex: 1;
+}
+
+.close-modal {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  z-index: 999;
+}
